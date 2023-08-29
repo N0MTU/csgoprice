@@ -1,0 +1,8 @@
+This is a small python project employing:
+Web crawlers from the BeautifulSoup lib
+Bar graphs (csgoprice3) and line graphs (csgoprice6) from matplot lib
+and interpolated line graph values using SciPy lib
+
+Csgoprice3 provides a static bar graph of pricings for current CSGO cases
+Csgoprice6 stores the prices for cases each time it is run, interpolating the values between the times to show approximate price changes over time.
+
